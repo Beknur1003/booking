@@ -1,5 +1,3 @@
-github.com/Beknur1003/bookings v0.0.0-20211102093048-811921dcd565 h1:W1BolGzmm7EG+IpNHROk05Rfp7zMQH82lUOMf7EY3Fg=
-github.com/Beknur1003/bookings v0.0.0-20211102093048-811921dcd565/go.mod h1:LBit3dXqCccqmlfY1XQts4HNc3Mm8gyq53RfUl2U2PQ=
 github.com/alexedwards/scs/v2 v2.4.0 h1:XfnMamKnvp1muJVNr1WzikQTclopsBXWZtzz0NBjOK0=
 github.com/alexedwards/scs/v2 v2.4.0/go.mod h1:ToaROZxyKukJKT/xLcVQAChi5k6+Pn1Gvmdl7h3RRj8=
 github.com/go-chi/chi v1.5.4 h1:QHdzF2szwjqVV4wmByUnTcsbIg7UGaQ0tPF2t5GcAIs=
